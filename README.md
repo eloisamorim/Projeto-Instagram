@@ -8,17 +8,18 @@
 
 1. *Página de login pelo navegador web.*
 
-![image-20201215134541381](C:\Users\elois\AppData\Roaming\Typora\typora-user-images\image-20201215134541381.png)
+![PagInstagram_navegador](C:\workspace\Desafios-DIO\DesafioInstagram\PagInstagram_navegador.png)
 
 
 
 2. *Página de login para tablets.*
 
-   ![image-20201215134930834](C:\Users\elois\AppData\Roaming\Typora\typora-user-images\image-20201215134930834.png)
+   ![PagInstagram_tablet](C:\workspace\Desafios-DIO\DesafioInstagram\PagInstagram_tablet.PNG)
 
    
 
 3. *Página de login mobile*
 
-   ![image-20201215135000146](C:\Users\elois\AppData\Roaming\Typora\typora-user-images\image-20201215135000146.png)
-
+   ![PagInstagram_mobile](C:\workspace\Desafios-DIO\DesafioInstagram\PagInstagram_mobile.PNG)
+   
+   
